@@ -1,1 +1,2 @@
 NSLog(@"Test");
+NSLog(@"Change in new branch");
